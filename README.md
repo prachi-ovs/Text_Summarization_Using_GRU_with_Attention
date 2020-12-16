@@ -22,6 +22,7 @@ The different files present in the repository are listed below with their indivi
     Data --> Folder used for storing the training and testing datasets along with the raw data
     brain --> Contains the best trained GRU model.
     models --> Folder with Ipython notebooks for different models used (simple RNN vs GRU)
+    Images --> Folder with images from the ipynb files  **(name of images here)**
     requirements --> text file containing all the required libraries 
                     To install using `pip3 install -r requirements.txt`
 
