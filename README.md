@@ -1,1 +1,2 @@
-# Text_Summarization_Using_GRU_with_Attention
+# News Articles Summarizations
+### Using Bi-directional GRU with Attention mechanism
