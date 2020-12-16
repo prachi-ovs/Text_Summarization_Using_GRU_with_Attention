@@ -28,7 +28,7 @@ The different files present in the repository are listed below with their indivi
     requirements --> text file containing all the required libraries 
                     To install using `pip3 install -r requirements.txt`
 
-## Results
+## Best Results
 The training and testing accuracy/loss are:
 
 Data Set| Accuracy |  PPE
