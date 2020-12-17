@@ -22,7 +22,6 @@ The *Encoder* takes a sequence of text as input and produces a list of hidden st
 The different files present in the repository are listed below with their individual uses:
 
     Data --> Folder used for storing the training and testing datasets along with the raw data
-    brain --> Contains the best trained GRU model.
     models --> Folder with Ipython notebooks for different models used (simple RNN vs GRU with dropout)
     requirements --> text file containing all the required libraries 
                     To install using `pip3 install -r requirements.txt`
